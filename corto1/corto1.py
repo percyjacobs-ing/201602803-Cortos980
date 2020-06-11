@@ -31,3 +31,12 @@ def escribir(num):
 
 # main -- para llamar a las funciones
 escribir(803)
+
+#Funcionamiento:        40/40
+#Uso de Funciones       20/20
+#Manejo de archivos     10/10
+#Manejo de Listas       10/10
+#Uso de git             20/20
+#*****************************
+#Total                  /100
+
